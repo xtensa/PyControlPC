@@ -1,0 +1,15 @@
+# Pins numbered with BCM numbering
+
+POWER_PINS={}
+RESET_PINS={}
+STATUS_PINS={}
+
+
+POWER_PINS["MINER01"]=25
+RESET_PINS["MINER01"]=8
+STATUS_PINS["MINER01"]=7
+
+
+
+
+
